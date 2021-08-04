@@ -15,4 +15,7 @@ dependencies {
     implementation(group: 'org.vividus', name: 'vividus-plugin-web-app', version: vividusVersion)
     implementation(group: 'org.vividus', name: 'vividus-plugin-rest-api', version: vividusVersion)
     implementation(group: 'org.vividus', name: 'vividus-plugin-visual', version: vividusVersion)
+    implementation(group: 'org.vividus', name: 'vividus-util', version: vividusVersion)
+    implementation group: 'org.imgscalr', name: 'imgscalr-lib', version: '4.2'
+
 }
